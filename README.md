@@ -1,7 +1,7 @@
 ## 🔗 Sobre o Projeto
 
 <p>
-Calculadora que reorna se vale mais a pena comprar Gasolina ou Álcool de acordo com o valor por litro de cada um. 
+Calculadora que retorna se vale mais a pena comprar Gasolina ou Álcool de acordo com o valor por litro de cada um. 
 </p>
 
 
